@@ -1,0 +1,13 @@
+C:\Users\Ebubekir\source\repos\BiosSerial Alma\BiosSerial Alma\bin\Debug\BiosSerial Alma.exe.config
+C:\Users\Ebubekir\source\repos\BiosSerial Alma\BiosSerial Alma\bin\Debug\BiosSerial Alma.exe
+C:\Users\Ebubekir\source\repos\BiosSerial Alma\BiosSerial Alma\bin\Debug\BiosSerial Alma.pdb
+C:\Users\Ebubekir\source\repos\BiosSerial Alma\BiosSerial Alma\bin\Debug\System.Management.dll
+C:\Users\Ebubekir\source\repos\BiosSerial Alma\BiosSerial Alma\bin\Debug\System.Management.xml
+C:\Users\Ebubekir\source\repos\BiosSerial Alma\BiosSerial Alma\obj\Debug\BiosSerial Alma.csprojAssemblyReference.cache
+C:\Users\Ebubekir\source\repos\BiosSerial Alma\BiosSerial Alma\obj\Debug\BiosSerial_Alma.Form1.resources
+C:\Users\Ebubekir\source\repos\BiosSerial Alma\BiosSerial Alma\obj\Debug\BiosSerial_Alma.Properties.Resources.resources
+C:\Users\Ebubekir\source\repos\BiosSerial Alma\BiosSerial Alma\obj\Debug\BiosSerial Alma.csproj.GenerateResource.cache
+C:\Users\Ebubekir\source\repos\BiosSerial Alma\BiosSerial Alma\obj\Debug\BiosSerial Alma.csproj.CoreCompileInputs.cache
+C:\Users\Ebubekir\source\repos\BiosSerial Alma\BiosSerial Alma\obj\Debug\BiosSerial Alma.csproj.CopyComplete
+C:\Users\Ebubekir\source\repos\BiosSerial Alma\BiosSerial Alma\obj\Debug\BiosSerial Alma.exe
+C:\Users\Ebubekir\source\repos\BiosSerial Alma\BiosSerial Alma\obj\Debug\BiosSerial Alma.pdb
